@@ -1,0 +1,20 @@
+{
+    "model_name": "Logistic Regression",
+    "training_date": "2025-12-19 22:39:40",
+    "training_samples": 103316,
+    "test_samples": 25830,
+    "n_features": 25,
+    "class_distribution": {
+        "train_fraud_rate": "9.50%",
+        "test_fraud_rate": "9.50%"
+    },
+    "performance_metrics": {
+        "AUC-PR": 0.7217025802719674,
+        "ROC-AUC": 0.8387163298184195,
+        "F1-Score": 0.633601756954612,
+        "Precision": 0.5750830564784053,
+        "Recall": 0.7053789731051344,
+        "Accuracy": 0.9224932249322493,
+        "Inference Time (ms)": 125.10156631469727
+    }
+}
