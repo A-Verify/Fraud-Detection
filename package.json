@@ -1,0 +1,29 @@
+{
+  "name": "fraud-detection",
+  "version": "1.0.0",
+  "description": "A comprehensive machine learning solution for detecting fraudulent transactions in e-commerce and banking systems. This project addresses the critical challenge of class imbalance while balancing security requirements with user experience.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Verify/Fraud-Detection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Verify/Fraud-Detection/issues"
+  },
+  "homepage": "https://github.com/A-Verify/Fraud-Detection#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.30.0"
+  }
+}
